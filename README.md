@@ -16,4 +16,4 @@
 
 ## Computer Vision Nanodegree Certificate
 
-![CVND-certificate](https://user-images.githubusercontent.com/33187812/71771182-e898e200-2f3f-11ea-9687-89353c0f455e.png)
+![CVND-certificate](https://confirm.udacity.com/37MH4PTD)
